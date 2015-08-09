@@ -31,7 +31,6 @@ exalt - high praise
 hackneyed - banal , lacking importance due to overuse
 tortuous - marked by repeated turns or bends
 petulant - easily irritated
-denigrate - flase accusation
 implausible - unbelievable
 exacting - demanding accuracy
 provincial - not fashionable
@@ -44,6 +43,8 @@ exonerate - pronounce not guilty
 copious - abundant supply
 espouse - support an idea
 denigrate - false accusation
+haughty - arrogant
+
 
 
 
